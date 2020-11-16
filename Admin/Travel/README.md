@@ -1,3 +1,0 @@
-# Travel
-
-This subdirectory should contain further subdirectories of any conference travel conducted within your candiature. Each conference travel directory should be dated with the month, year and the abbreviation of the conference (e.g., `Travel/April2020-ICSE/...`). You can include itineraries, conference registration confirmation, funding requests, and travel diaries in here related to your conference travel.
